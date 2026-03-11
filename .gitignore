@@ -1,0 +1,9 @@
+uploads/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pt
+*.weights
+
+yolov7/
