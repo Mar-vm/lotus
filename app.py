@@ -6,6 +6,8 @@ import uuid
 from pathlib import Path
 import logging
 import datetime
+from db import get_db_connection
+
 import mysql.connector
 from mysql.connector import Error
 
